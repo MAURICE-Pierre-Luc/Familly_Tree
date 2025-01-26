@@ -1,9 +1,0 @@
-# ninja log v6
-4	127	7415253350252662	CMakeFiles/projetCIR1_groupe_5.dir/main.c.obj	5efa12985efa9001
-15	134	7415253350362950	CMakeFiles/projetCIR1_groupe_5.dir/date_and_birth.c.obj	3eaba05b696cdf1e
-18	161	7415253350383003	CMakeFiles/projetCIR1_groupe_5.dir/region.c.obj	6dcd1d10ce3e62a4
-28	162	7415253350493306	CMakeFiles/projetCIR1_groupe_5.dir/read_csv.c.obj	68f8c45a4814582b
-32	162	7415253350533403	CMakeFiles/projetCIR1_groupe_5.dir/menu.c.obj	88775ce3cbf18310
-21	169	7415253350423121	CMakeFiles/projetCIR1_groupe_5.dir/population.c.obj	432c0a91f637ed83
-25	179	7415253350463220	CMakeFiles/projetCIR1_groupe_5.dir/create_html.c.obj	262538ba686a2917
-179	293	7415253351997236	projetCIR1_groupe_5.exe	bcb5967d8d21c158

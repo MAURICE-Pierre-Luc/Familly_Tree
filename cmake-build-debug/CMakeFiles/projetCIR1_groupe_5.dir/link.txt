@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/projetCIR1_groupe_5.dir/main.c.o CMakeFiles/projetCIR1_groupe_5.dir/date_and_birth.c.o CMakeFiles/projetCIR1_groupe_5.dir/region.c.o CMakeFiles/projetCIR1_groupe_5.dir/population.c.o CMakeFiles/projetCIR1_groupe_5.dir/create_html.c.o CMakeFiles/projetCIR1_groupe_5.dir/read_csv.c.o CMakeFiles/projetCIR1_groupe_5.dir/menu.c.o -o projetCIR1_groupe_5 
